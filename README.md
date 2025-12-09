@@ -1,5 +1,7 @@
 # Covid-19 Simulation (Python)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Simulates the spread of COVID-19 using a per-country sampled population and a simple Markov-chain per-person model.  
 This assignment-style project creates a per-person daily time-series, a per-country daily summary, and a visualization of infection waves. It also includes a small Streamlit app to run and visualize the results.
 
