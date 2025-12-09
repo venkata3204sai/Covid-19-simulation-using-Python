@@ -1,6 +1,16 @@
 # Covid-19 Simulation (Python)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<p align="left">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red.svg" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Simulation-Markov%20Chain-brightgreen.svg" alt="Markov Simulation">
+  <img src="https://img.shields.io/github/last-commit/venkata3204sai/Covid-19-simulation-using-Python" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/venkata3204sai/Covid-19-simulation-using-Python" alt="Repo Size">
+</p>
+
 
 Simulates the spread of COVID-19 using a per-country sampled population and a simple Markov-chain per-person model.  
 This assignment-style project creates a per-person daily time-series, a per-country daily summary, and a visualization of infection waves. It also includes a small Streamlit app to run and visualize the results.
